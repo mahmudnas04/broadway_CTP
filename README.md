@@ -5,6 +5,7 @@ By: **Arif Nasif, Oluwanfesimi Kukoyi, Pujan Patel, Zachary Ashinoff**
 
 View details of and purchase tickets for your favorite Broadway shows!
 
+More on how to launch this Repository below
 ## Video Presentation
 [![Video](https://img.youtube.com/vi/7pa4JbUDULs/maxresdefault.jpg)](https://www.youtube.com/watch?v=7pa4JbUDULs)
 
