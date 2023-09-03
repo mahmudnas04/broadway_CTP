@@ -1,3 +1,14 @@
+# The Arts & Tech: CUNY Tech Prep Cohort 9 Hackathon
+
+## Broadway Shows Web App
+By: **Arif Nasif, Oluwanfesimi Kukoyi, Pujan Patel, Zachary Ashinoff**
+
+View details of and purchase tickets for your favorite Broadway shows!
+
+## Try it Out
+Link: https://broadway-hackathon.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
